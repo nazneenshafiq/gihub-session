@@ -1,1 +1,1 @@
-# gihub-session
+# Gihub Session Fellowship
